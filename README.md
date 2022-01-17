@@ -2,8 +2,7 @@
 
 I'm Octavio, a recently graduated software engineer from Mexico. I like building stuff and talking about Bitcoin.
 
-- 🔭 I’m currently working on a synthetic image generator.
-- 🌱 I’m currently learning Next.JS.
+- 🌱 I’m currently learning about synthetic image generation with DCGANs.
 - 👯 I’m looking to collaborate on blockchain projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: octavio.grdz@gmail.com
